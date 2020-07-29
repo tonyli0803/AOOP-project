@@ -1,0 +1,60 @@
+﻿已經開始建置於 2016/1/19 上午 04:46:21。
+     1>節點 2 (build 目標) 上的專案 "C:\Users\softheart\Desktop\修課專區\進階物件導向\new_project_GUI\project_GUI\project_GUI\project_GUI.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\project_GUI.unsuccessfulbuild"。
+       GenerateTargetFrameworkMonikerAttribute:
+       將略過目標 "GenerateTargetFrameworkMonikerAttribute"，因為所有輸出檔對於其輸入檔而言都已更新。
+       ClCompile:
+         所有輸出都是最新的。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\project_GUI.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt project_GUI.cpp /clr:nostdlib 
+         project_GUI.cpp
+     1>c:\users\softheart\desktop\修課專區\進階物件導向\new_project_gui\project_gui\project_gui\Form2.h(25): warning C4677: 'Form2': 非私用成員的簽章含有組件私用型別 'Warehouse'
+                 c:\users\softheart\desktop\修課專區\進階物件導向\new_project_gui\project_gui\project_gui\Warehouse.h(12) : 請參閱 'Warehouse' 的宣告
+     1>c:\users\softheart\desktop\修課專區\進階物件導向\new_project_gui\project_gui\project_gui\Form2.h(25): warning C4677: 'Form2': 非私用成員的簽章含有組件私用型別 'Customer'
+                 c:\users\softheart\desktop\修課專區\進階物件導向\new_project_gui\project_gui\project_gui\Customer.h(9) : 請參閱 'Customer' 的宣告
+     1>c:\users\softheart\desktop\修課專區\進階物件導向\new_project_gui\project_gui\project_gui\Form2.h(123): warning C4101: 'e' : 未參考的區域變數
+     1>c:\users\softheart\desktop\修課專區\進階物件導向\new_project_gui\project_gui\project_gui\Form2.h(1620): warning C4286: 'System::FormatException ^' : 由基底類別 ('System::Exception ^') 攔截 (第 1619 行)
+     1>c:\users\softheart\desktop\修課專區\進階物件導向\new_project_gui\project_gui\project_gui\Form2.h(1619): warning C4101: 'e' : 未參考的區域變數
+     1>c:\users\softheart\desktop\修課專區\進階物件導向\new_project_gui\project_gui\project_gui\Form2.h(1620): warning C4101: 'e' : 未參考的區域變數
+     1>c:\users\softheart\desktop\修課專區\進階物件導向\new_project_gui\project_gui\project_gui\Form0.h(26): warning C4677: 'Form0': 非私用成員的簽章含有組件私用型別 'Warehouse'
+                 c:\users\softheart\desktop\修課專區\進階物件導向\new_project_gui\project_gui\project_gui\Warehouse.h(12) : 請參閱 'Warehouse' 的宣告
+     1>c:\users\softheart\desktop\修課專區\進階物件導向\new_project_gui\project_gui\project_gui\Form0.h(26): warning C4677: 'Form0': 非私用成員的簽章含有組件私用型別 'Customer'
+                 c:\users\softheart\desktop\修課專區\進階物件導向\new_project_gui\project_gui\project_gui\Customer.h(9) : 請參閱 'Customer' 的宣告
+     1>c:\users\softheart\desktop\修課專區\進階物件導向\new_project_gui\project_gui\project_gui\Form3.h(27): warning C4677: 'Form3': 非私用成員的簽章含有組件私用型別 'Warehouse'
+                 c:\users\softheart\desktop\修課專區\進階物件導向\new_project_gui\project_gui\project_gui\Warehouse.h(12) : 請參閱 'Warehouse' 的宣告
+     1>c:\users\softheart\desktop\修課專區\進階物件導向\new_project_gui\project_gui\project_gui\Form3.h(27): warning C4677: 'Form3': 非私用成員的簽章含有組件私用型別 'Customer'
+                 c:\users\softheart\desktop\修課專區\進階物件導向\new_project_gui\project_gui\project_gui\Customer.h(9) : 請參閱 'Customer' 的宣告
+     1>c:\users\softheart\desktop\修課專區\進階物件導向\new_project_gui\project_gui\project_gui\Form1.h(28): warning C4244: '引數' : 將 'time_t' 轉換為 'unsigned int'，由於型別不同，可能導致資料遺失
+         所有輸出都是最新的。
+       CoreResGen:
+         相對於資源的來源檔案，並沒有資源過期。將略過產生資源。
+       ResourceCompile:
+         所有輸出都是最新的。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\softheart\Desktop\修課專區\進階物件導向\new_project_GUI\project_GUI\Debug\project_GUI.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\project_GUI.Form0.resources /ASSEMBLYRESOURCE:Debug\project_GUI.Form1.resources /ASSEMBLYRESOURCE:Debug\project_GUI.Form2.resources /ASSEMBLYRESOURCE:Debug\project_GUI.Form3.resources /MANIFEST /ManifestFile:"Debug\project_GUI.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\softheart\Desktop\修課專區\進階物件導向\new_project_GUI\project_GUI\Debug\project_GUI.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\Customer.obj
+         Debug\Decoration.obj
+         Debug\Form0.obj
+         Debug\Form2.obj
+         Debug\Form3.obj
+         Debug\Ingredient.obj
+         Debug\MoneyObject.obj
+         Debug\NameObject.obj
+         Debug\project_GUI.obj
+         Debug\Recipe.obj
+         Debug\stdafx.obj
+         Debug\Tool.obj
+         Debug\Warehouse.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         project_GUI.vcxproj -> C:\Users\softheart\Desktop\修課專區\進階物件導向\new_project_GUI\project_GUI\Debug\project_GUI.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\softheart\Desktop\修課專區\進階物件導向\new_project_GUI\project_GUI\Debug\project_GUI.exe;#1" /manifest Debug\project_GUI.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\project_GUI.unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\project_GUI.lastbuildstate"。
+     1>專案 "C:\Users\softheart\Desktop\修課專區\進階物件導向\new_project_GUI\project_GUI\project_GUI\project_GUI.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:04.61
